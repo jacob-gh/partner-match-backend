@@ -1,0 +1,22 @@
+{
+  "groups": [
+    {
+      "name": "spring.redis",
+      "type": "com.jacob.partnermatch.config.RedissonConfig",
+      "sourceType": "com.jacob.partnermatch.config.RedissonConfig"
+    }
+  ],
+  "properties": [
+    {
+      "name": "spring.redis.host",
+      "type": "java.lang.String",
+      "sourceType": "com.jacob.partnermatch.config.RedissonConfig"
+    },
+    {
+      "name": "spring.redis.port",
+      "type": "java.lang.String",
+      "sourceType": "com.jacob.partnermatch.config.RedissonConfig"
+    }
+  ],
+  "hints": []
+}
