@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="90683bb2-5327-41c8-80fe-79b97468a55d" name="更改" comment="update project">
+    <list default="true" id="90683bb2-5327-41c8-80fe-79b97468a55d" name="更改" comment="update 笔记">
+      <change afterPath="$PROJECT_DIR$/image/image-20240625102147427.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/image-20240625102233749.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/伙伴匹配系统.md" beforeDir="false" afterPath="$PROJECT_DIR$/伙伴匹配系统.md" afterDir="false" />
     </list>
@@ -65,43 +67,46 @@
   &quot;associatedIndex&quot;: 7
 }</component>
   <component name="ProjectId" id="2gnei06JDPDRC3nFxAy6yzbqd49" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;JUnit.UserCenterApplicationTests.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.UserServiceTest.searchUserByTags.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.UserServiceTest.userRegister.executor&quot;: &quot;Run&quot;,
-    &quot;RequestMappingsPanelOrder0&quot;: &quot;0&quot;,
-    &quot;RequestMappingsPanelOrder1&quot;: &quot;1&quot;,
-    &quot;RequestMappingsPanelWidth0&quot;: &quot;75&quot;,
-    &quot;RequestMappingsPanelWidth1&quot;: &quot;75&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;Spring Boot.PartnerMatchApplication.executor&quot;: &quot;Run&quot;,
-    &quot;Spring Boot.UserCenterApplication (1).executor&quot;: &quot;Run&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/java/IDEA/projects/openAPI-platform-backend&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;模块&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;project.propVCSSupport.DirectoryMappings&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "JUnit.UserCenterApplicationTests.executor": "Run",
+    "JUnit.UserServiceTest.searchUserByTags.executor": "Run",
+    "JUnit.UserServiceTest.userRegister.executor": "Run",
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "Spring Boot.PartnerMatchApplication.executor": "Run",
+    "Spring Boot.UserCenterApplication (1).executor": "Run",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "D:/java/IDEA/projects/openAPI-platform-backend",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "模块",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.gitlab.GitLabSettingsConfigurable",
+    "vue.rearranger.settings.migration": "true"
   },
-  &quot;keyToStringList&quot;: {
-    &quot;DatabaseDriversLRU&quot;: [
-      &quot;mysql&quot;
+  "keyToStringList": {
+    "DatabaseDriversLRU": [
+      "mysql"
     ]
   }
-}</component>
+}]]></component>
   <component name="ReactorSettings">
     <option name="notificationShown" value="true" />
   </component>
@@ -241,7 +246,8 @@
       <workItem from="1718870199929" duration="3439000" />
       <workItem from="1718930197182" duration="1373000" />
       <workItem from="1718937931228" duration="129000" />
-      <workItem from="1719280423210" duration="1324000" />
+      <workItem from="1719280423210" duration="2335000" />
+      <workItem from="1719283207938" duration="1097000" />
     </task>
     <task id="LOCAL-00001" summary="save project">
       <option name="closed" value="true" />
@@ -259,7 +265,15 @@
       <option name="project" value="LOCAL" />
       <updated>1718790777574</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="update 笔记">
+      <option name="closed" value="true" />
+      <created>1719282190463</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1719282190463</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -277,12 +291,14 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <ignored-roots>
       <path value="$APPLICATION_HOME_DIR$/repositories" />
     </ignored-roots>
     <MESSAGE value="save project" />
     <MESSAGE value="update project" />
-    <option name="LAST_COMMIT_MESSAGE" value="update project" />
+    <MESSAGE value="update 笔记" />
+    <option name="LAST_COMMIT_MESSAGE" value="update 笔记" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
